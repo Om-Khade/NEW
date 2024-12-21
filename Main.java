@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Enter first number:");
         int num1 = scanner.nextInt();
 
-        System.out.println("Enter second number:");
+        System.out.println("Enter  number:");
         int num2 = scanner.nextInt();
 
         System.out.println("Enter third number:");
